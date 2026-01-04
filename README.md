@@ -7,8 +7,6 @@
 
 I build end-to-end systems — from backend and infrastructure to AI agents in production.
 
-I don't chase tools or hype. I focus on **fundamentals**, **scale**, and **shipping systems** that survive real-world constraints.
-
 ---
 
 ## What I'm Building
@@ -60,18 +58,6 @@ I learn by building, breaking, fixing, and repeating.
 
 ---
 
-## What You'll Find Here
-
-- Experiments with AI agents & orchestration
-- Infrastructure-heavy projects
-- Proofs of concept exploring *"does this actually work?"*
-
-Not everything here is polished — but everything here is intentional.
-
----
-
 ## Let's Connect
-
-If you're into building real systems, applied AI (not toy demos), or thoughtful engineering — reach out.
 
 **X:** [@karthikr3ddy](https://x.com/karthikr3ddy)
