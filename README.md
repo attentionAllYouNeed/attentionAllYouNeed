@@ -11,7 +11,7 @@ I build end-to-end systems — from backend and infrastructure to AI agents in p
 
 ## What I'm Building
 
-Right now, I'm deep in the AI space — not the slide-deck version, but the version that needs to work at 3 AM under load.
+Currently focused on AI.
 
 - **Agentic systems** — orchestration, tool use, multi-agent architectures
 - **LLMs in production** — cost, latency, observability, reliability
